@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import axios from "axios";
 import style from "./style.css"
 
-
+//gg
 export default function Allpcustomers(){
 
     const [PCustomers , setCustpmers] = useState([]);
