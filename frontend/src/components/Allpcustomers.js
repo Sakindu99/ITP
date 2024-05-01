@@ -4,6 +4,7 @@ import axios from "axios";
 import style from "./style.css"
 
 //gg
+//gg2
 export default function Allpcustomers(){
 
     const [PCustomers , setCustpmers] = useState([]);
